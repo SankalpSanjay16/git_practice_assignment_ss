@@ -1,4 +1,3 @@
-
 let factors =  0;
 function checkPrime(number)
 {
@@ -13,6 +12,7 @@ if(factors===2){
   return false
 }
 }
+
 
 let answer = checkPrime(23)
 
